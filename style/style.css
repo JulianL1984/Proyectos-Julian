@@ -91,7 +91,7 @@ body{
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 21.5px;
     text-decoration: none;
     color: var(--color-secundiario);
     font-family: var(--fuente-montserrat);
