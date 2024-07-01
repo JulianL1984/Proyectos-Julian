@@ -106,15 +106,15 @@ body{
 }
 
 .presentacion__imagen {
-    width: 80%;
+    width: 60%;
 }
 
 .presentacion__imagen_1 {
-    width: 80%;
+    width: 60%;
 }
 
 .presentacion__imagen_2 {
-    width: 50%;
+    width: 80%;
 }
 
 .presentacion__imagen_3 {
@@ -156,5 +156,8 @@ body{
     .presentacion__contenido{
         width: auto;
     }
-
+    .presentacion__enlaces__link{
+        padding: 10%;
+    }
+    
 }
